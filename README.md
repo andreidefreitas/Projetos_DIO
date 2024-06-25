@@ -21,11 +21,11 @@ O ebook visa fornecer uma base sólida em lógica de programação, utilizando e
 Agradeço a todos que apoiaram e incentivaram a criação deste ebook. Sua contribuição foi essencial para a realização deste projeto.
 
 ## Sobre o Autor
-Sou Andrei de Freitas, desenvolvedor apaixonado por tecnologia. Este ebook foi desenvolvido como parte de um projeto educacional de IA, utilizando ferramentas inovadoras para ensinar lógica de programação. Espero que este material seja uma fonte valiosa para sua jornada na programação.
+Sou __Andrei de Freitas__, desenvolvedor apaixonado por tecnologia. Este ebook foi desenvolvido como parte de um projeto educacional de IA, utilizando ferramentas inovadoras para ensinar lógica de programação. Espero que este material seja uma fonte valiosa para sua jornada na programação.
 
 ## Contato:
 
 Email: [contato@andreidefreitas.com]
 LinkedIn: [https://br.linkedin.com/in/paulo-andrei-de-freitas-bandeira-a10935194]
 
-Obrigado por ler e aproveite seu aprendizado!
+__Obrigado por ler e aproveite seu aprendizado!__
