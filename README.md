@@ -27,15 +27,5 @@ Sou Andrei de Freitas, desenvolvedor apaixonado por tecnologia. Este ebook foi d
 
 Email: [contato@andreidefreitas.com]
 LinkedIn: [https://br.linkedin.com/in/paulo-andrei-de-freitas-bandeira-a10935194]
+
 Obrigado por ler e aproveite seu aprendizado!
-
-
-
-
-
-
-
-
-
-
-ChatGPT pode cometer erros. Considere verificar informações importantes.
